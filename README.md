@@ -20,3 +20,6 @@ Machine Learning - KNN
   
  Machine Learning - Naive Bayes_KNN
   - An example of a comparison assignment comparing Naive Bayes method against K-Nearest Neighbors (KNN)
+  
+Correlation Analysis
+  - This is some code I pulled from the internet for correlation analysis. I modified several parts to fit my needs. Just an example of something I have used to get a better understanding of relationships of various stocks and ETFs before I add them to my portfolio.

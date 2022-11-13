@@ -14,3 +14,9 @@ Simple_HyperOpt_Trading_Algo
 
 DeepLearning Midterm
   - This is an example of the an image recognition deep learning model using Keras
+  
+Machine Learning - KNN
+  - An example of a KNN assignment I completed
+  
+ Machine Learning - Naive Bayes_KNN
+  - An example of a comparison assignment comparing Naive Bayes method against K-Nearest Neighbors (KNN)

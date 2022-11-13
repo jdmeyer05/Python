@@ -1,6 +1,6 @@
 Python Code
 
-All of the code here are personal projects that I want to share. I have several academic projects I can share as well which I made do in the future.
+All of the code here are personal projects that I want to share. I have shared a few academic projects as well.
 
 Options_Visualizations
   - I wanted to be able to see options Open Interest and Implied Vol across three axis. IV or OI, Contract Month, Strike

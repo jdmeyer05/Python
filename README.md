@@ -3,7 +3,8 @@ Python Code
 All of the code here are personal projects that I want to share. I have shared a few academic assignments as well.
 
 Options_Visualizations
-  - I wanted to be able to see options Open Interest and Implied Vol across three axes. IV or OI, Contract Month, Strike
+  - I wanted to be able to see options Open Interest and Implied Vol across three axes. IV or OI, Contract Month, Strike.
+  - This code, because it is plotly, which is amazing for visualizations, allows for the 3d charts to be rotated, panned and scaled.
   
 QQQ_Intraday_Price_Analysis
   - Back in Feb 2022, a CPI report caused the markets to produce a special day. There was more volume (shares traded) on this day than any day going back at least a decade or more. So I pulled all the volume data back as far as possible and ran some analysis and visualizations. This visualization is also what is in my Medium.com article.
